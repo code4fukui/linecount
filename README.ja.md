@@ -19,3 +19,6 @@ deno install --allow-read https://code4fukui.github.io/linecount/linecount.js
 ```sh
 deno uninstall https://code4fukui.github.io/linecount/linecount.js
 ```
+
+## ライセンス
+ライセンスが明示されていません。

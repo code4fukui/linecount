@@ -1,5 +1,7 @@
 # linecount
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 Acquire the tally of lines within files.
 
 ## Usage
